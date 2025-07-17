@@ -1,5 +1,5 @@
 @echo off
-title SMB Bruteforce -by Paul Peroxile
+title SMB Bruteforce -by Peroxile
 color A
 echo.
 set/p ip="Enter IP Address:"
